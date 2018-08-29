@@ -1,0 +1,28 @@
+*USDINR hits record high due to strong dollar demand in India.
+
+--> Though dollar index was down {This falsifies our assumption that dollar index alone determines the direction of spot prices.}
+
+-> RBI started selling dollars though was mild. 
+	-> Reasoning given by most dealers was that Central bank was intending to stop the prices at 69 psychological levels but failed to do so
+		hence they'll let the prices reach equilibrium (Let the market decide what's the right price).
+
+*Due to gyrations in currency Banknifty was stagnant rather negative (Find the correlation between bank nifty and spot usdinr pair.)
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+								Current Positions
+------------------------------------------------------------------------------------------------------------------------------------------------
+1) Straddle BANK NIFTY
+		
+		-------			---	-------------
+		Product			QTY	BUY AVG PRICE
+		-------			---	-------------
+ 
+	 
+	    BANKNIFTY06SEPT28300CE       40
+	    BANKNIFTY06SEPT28200PE       40
+	
+	    NIFTY18SEP12000CE		 75
+	    NIFTY18SEP11300PE		 75
+	    
+
+	    		 
