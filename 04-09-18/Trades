@@ -1,0 +1,46 @@
+*Bank nifty and Currencies are higly correlated 
+
+
+-> Depreciating Currency results in Downfall of the Bank nifty which constitutes 30 % of the Nifty 50 that significantly results in the entire market going down.
+
+
+1) Unwinded 9th sept exiry bank nifty position for 
+
+    BANKNIFTY0628200PE =  +11,278.00
+    BANKNIFTY0628300CE =   -7,378.00
+
+    Positional P/L     =   +3,900.00
+
+
+2) Added Currncy pair position of position ins 29Sept expiry USDINR Pair
+
+    USDINR18SEP71.25PE = 11 * 0.3450 = 3795
+    USDINR18SEP71.75CE = 10 * 0.3950 = 3950
+
+    Position       = 3795.00 + 3950.00 = 7745.00
+
+3) Current Positions
+
+    USDINR18SEP71.25PE = 11 * 0.3450 = 3795.00
+    USDINR18SEP71.75CE = 10 * 0.3950 = 3950.00
+
+    Position       = 3795.00 + 3950.00 = 7745.00
+
+    NIFTY18SEP12000CE = 75 * 31.10  = 2332.50
+    NIFTY18SEP11300PE = 75 * 42.40  = 3180.00
+
+    Position       = 2332.50 + 3180.00 = 5512.50
+
+Net Exposure = 7745.00 + 5512.50
+             = 13257.50
+
+Straddle 
+
+    1)USDINR  Straddle = .50 Spread   Price near to 71.61
+    2)NIFTY50 Straddle = 700 Spread   Price near to 11550
+
+
+
+
+
+
