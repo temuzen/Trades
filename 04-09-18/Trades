@@ -19,7 +19,7 @@
     Positional P/L     =   -92.25
 
 
-2) Added Currncy pair position of position ins 29Sept expiry USDINR Pair
+2) Added Currency pair position of position ins 29Sept expiry USDINR Pair
 
     USDINR18SEP71.25PE = 11 * 0.3450 = 3795
     USDINR18SEP71.75CE = 10 * 0.3950 = 3950
@@ -40,9 +40,15 @@ Straddle
     1)USDINR  Straddle = .50 Spread   Price near to 71.61
 
 
+Day's Summary 
 
 
+No of Trades Executed :- 6
+Total Expected cost   :- 275
+Overall P/L           :- +3900-92-275 
+NET P/L               :- +3533
 
-
+Account Value = 23533-7745
+              = 15788
 
 
