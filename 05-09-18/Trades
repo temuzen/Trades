@@ -1,0 +1,83 @@
+*Bank nifty and Currencies are higly correlated 
+
+
+-> Depreciating Currency results in Downfall of the Bank nifty which constitutes 30 % of the Nifty 50 that significantly results in the entire market going down.
+-> Rupee Breaches 72 Mark
+
+1)  Unwinded Postions
+
+    a) Booked Profit Currency pair position of position ins 29Sept expiry USDINR Pair
+
+                    Buy Price
+
+    USDINR18SEP71.25PE = 11 * 0.3450 = 3795.00
+    USDINR18SEP71.75CE = 10 * 0.3950 = 3950.00
+    Postion Size = 3795.00 + 3950.00 = 7745.00
+    
+                    Sell Price  
+
+    USDINR18SEP71.25PE = 11 * 0.1675 = 1842.5
+    USDINR18SEP71.75CE = 10 * 0.6975 = 6975.0
+    Postion Size = 1842.50 + 6975.00 = 8817.5
+    
+
+    Profit       = 8817.50 - 7745.00 = 1072.5
+
+
+2)  New Positions
+
+    USDINR18SEP71.75PE = 5 * 0.4300 = 2150.00
+    USDINR18SEP72.00CE = 5 * 0.4175 = 2087.50
+
+    Position       = 2150.00 + 2087.50 = 4237.5
+
+    Net Exposure = 4237.5
+
+
+3)  Intraday Positions
+
+    a)   BANK NIFTY Straddle (200 Points Spread)
+
+                    Buy Price  
+
+    BANKNIFTY12SEP1827400PE = 40 * 170.95 = 6838.00
+    BANKNIFTY12SEP1827600CE = 40 * 124.75 = 4990.00
+    Postion Size = 6838.00 + 4990.00      =11828.00
+    
+
+                    Sell Price
+
+    BANKNIFTY12SEP1827400PE = 40 * 233    = 9320.00
+    BANKNIFTY12SEP1827600CE = 40 * 85.1   = 3404.00
+    Postion Size = 9320.00 + 3404.00      =12724.00
+    
+    Profit         = 12724.00 - 11828.00 = 896.0
+
+
+4) Current Positions
+
+    USDINR18SEP71.75PE = 5 * 0.4300 = 2150.00
+    USDINR18SEP72.00CE = 5 * 0.4175 = 2087.50
+
+    Position       = 2150.00 + 2087.50 = 4237.5
+
+    Net Exposure = 4237.5
+
+
+Straddle 
+
+    1) USDINR  Straddle = .25 Spread   Price(FUT) ended at 71.81 after touching high of 72.250 
+
+
+Day's Summary 
+
+
+No of Trades Executed :- 6
+Total Expected cost   :- 275
+Overall P/L           :- +3900-92-275 
+NET P/L               :- +3533
+
+Account Value = 23533-7745
+              = 15788
+
+
