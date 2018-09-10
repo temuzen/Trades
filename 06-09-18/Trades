@@ -1,0 +1,55 @@
+*Bank nifty and Currencies are higly correlated 
+
+
+-> Depreciating Currency results in Downfall of the Bank nifty which constitutes 30 % of the Nifty 50 that significantly results in the entire market going down.
+
+
+1) No unwinding 
+
+    
+2) Added BANKNIFTY12SEPT Straddle
+
+    BANKNIFTY12SEP1827600CE = 40 * 138.50   = 5540.00
+    BANKNIFTY12SEP1827400PE = 40 * 118.00   = 4720.00
+
+
+    Position       = 5540.00 + 4720.00 = 10260.0
+
+3) Current Positions
+   
+    USDINR18SEP71.75PE = 5 * 0.4300 = 2150.00
+    USDINR18SEP72.00CE = 5 * 0.4175 = 2087.50
+
+    Position       = 2150.00 + 2087.50 = 4237.5
+
+    Net Exposure = 4237.5
+
+    BANKNIFTY12SEP1827600CE = 40 * 138.50   = 5540.00
+    BANKNIFTY12SEP1827400PE = 40 * 118.00   = 4720.00
+
+
+    Position       = 5540.00 + 4237.5 = 9777.5
+
+    Net Exposure = 9777.5
+
+
+    OVERALL EXPOSURE : 7745.00 + 9777.5 = 17522.5
+
+
+Straddle 
+
+    1)USDINR  Straddle    = .50 Spread   Price near to 71.61
+    2)BANKNIFTY Straddle  = 200 Spread    
+
+Day's Summary 
+
+
+No of Trades Executed : 2
+Total Expected cost   : 75
+Overall P/L           : -75 
+NET P/L               : -75
+
+Account Value = 23533-10260.0
+              = 15788
+
+
